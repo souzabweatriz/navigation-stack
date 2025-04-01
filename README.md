@@ -1,6 +1,6 @@
 ## 🚣 Navegando entre as páginas
 
-#### Este projeto foi desenvolvido como parte do curso técnico em Desenvolvimento de Sistemas do SENAI Valinhos, na disciplina de Back-End com o objetivo de aprimorar nossos conhecimentos em mobile
+#### Este projeto foi desenvolvido como parte do curso técnico em Desenvolvimento de Sistemas do SENAI Valinhos, com o objetivo de aprimorar nossos conhecimentos em mobile
 
 ## 📚 Descrição do Projeto
 
